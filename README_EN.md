@@ -65,7 +65,7 @@ git commit -s -m "feat: describe your change"
 ## Repository roles
 
 - Primary: [GitHub](https://github.com/agiledesign-ai/onekey-authenticator)
-- Mirror: [Gitee](https://gitee.com/agiledesign/onekey-authenticator)
+- Mirror: [Gitee](https://gitee.com/agiledesign/onekey-authenticator-open-source)
 - Mirror: [GitCode](https://gitcode.com/yunagile/onekey-authenticator)
 
 Use GitHub for issues, pull requests, and releases.

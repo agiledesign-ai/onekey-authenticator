@@ -382,7 +382,7 @@ git diff --check
 **目标**
 
 - GitHub：`https://github.com/agiledesign-ai/onekey-authenticator`
-- Gitee：`https://gitee.com/agiledesign/onekey-authenticator`
+- Gitee：`https://gitee.com/agiledesign/onekey-authenticator-open-source`（同名路径已被原私有源码仓库占用）
 - GitCode：`https://gitcode.com/yunagile/onekey-authenticator`
 
 **步骤**

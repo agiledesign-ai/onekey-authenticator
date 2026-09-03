@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/agiledesign-ai/onekey-authenticator/stargazers"><img src="https://img.shields.io/github/stars/agiledesign-ai/onekey-authenticator?style=flat-square&logo=github&label=GitHub" alt="GitHub Stars" height="20"></a>
-  <a href="https://gitee.com/agiledesign/onekey-authenticator"><img src="https://gitee.com/agiledesign/onekey-authenticator/badge/star.svg?theme=dark" alt="Gitee Stars" height="20"></a>
+  <a href="https://gitee.com/agiledesign/onekey-authenticator-open-source"><img src="https://gitee.com/agiledesign/onekey-authenticator-open-source/badge/star.svg?theme=dark" alt="Gitee Stars" height="20"></a>
   <a href="https://gitcode.com/yunagile/onekey-authenticator"><img src="https://gitcode.com/yunagile/onekey-authenticator/star/new_badge.svg" alt="GitCode Stars" height="20"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=flat-square" alt="Apache-2.0" height="20"></a>
 </p>
@@ -138,7 +138,7 @@ git commit -s -m "feat: describe your change"
 ## 仓库关系
 
 - 主仓库：[GitHub](https://github.com/agiledesign-ai/onekey-authenticator)
-- 同步镜像：[Gitee](https://gitee.com/agiledesign/onekey-authenticator)
+- 同步镜像：[Gitee](https://gitee.com/agiledesign/onekey-authenticator-open-source)
 - 同步镜像：[GitCode](https://gitcode.com/yunagile/onekey-authenticator)
 
 Issue、Pull Request 和版本发布以 GitHub 为准。
