@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1024"
+  height="1024"
+  viewBox="0 0 260 260"
+  role="img"
+  aria-labelledby="title desc">
+  <title id="title">SecureKey six-facet token application icon</title>
+  <desc id="desc">Rounded composite preview and launch icon source for the SecureKey six-facet token.</desc>
+
+  <defs>
+    <linearGradient id="brand-blue" x1="32" y1="18" x2="228" y2="242" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B83FA" />
+      <stop offset="1" stop-color="#0A59F7" />
+    </linearGradient>
+    <clipPath id="launch-mask">
+      <rect width="260" height="260" rx="62" />
+    </clipPath>
+    <filter id="token-shadow" x="42" y="34" width="190" height="208" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="7" dy="12" stdDeviation="8" flood-color="#003EAE" flood-opacity="0.26" />
+    </filter>
+  </defs>
+
+  <!-- 启动图标需要自带圆角；自适应分层资源仍由系统应用遮罩。 -->
+  <g clip-path="url(#launch-mask)">
+    <rect width="260" height="260" fill="url(#brand-blue)" />
+    <g transform="rotate(-3 130 130)" filter="url(#token-shadow)">
+      <path d="M133 57L193 91V161L133 198L72 163V93L133 57Z" fill="#74A4EE" />
+      <path d="M126 49L187 84V154L126 190L65 155V86L126 49Z" fill="#FFFFFF" />
+      <path d="M126 49L187 84L126 119L126 49Z" fill="#EDF5FF" />
+      <path d="M187 84V154L126 119L187 84Z" fill="#D1E4FF" />
+      <path d="M187 154L126 190V119L187 154Z" fill="#B5D3FF" />
+      <path d="M126 190L65 155L126 119V190Z" fill="#D7E8FF" />
+      <path d="M65 155V86L126 119L65 155Z" fill="#EAF3FF" />
+      <path d="M65 86L126 49V119L65 86Z" fill="#FAFCFF" />
+      <path d="M126 49L187 84L179 89L126 59L73 90L65 86L126 49Z" fill="#FFFFFF" fill-opacity="0.92" />
+    </g>
+  </g>
+</svg>

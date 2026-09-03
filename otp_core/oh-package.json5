@@ -1,0 +1,8 @@
+{
+  "name": "otp_core",
+  "version": "1.0.0",
+  "description": "Shared OTP model, engine and local storage adapters.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0"
+}

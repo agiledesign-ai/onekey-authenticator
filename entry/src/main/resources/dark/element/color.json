@@ -1,0 +1,84 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "page_background_light",
+      "value": "#111823"
+    },
+    {
+      "name": "card_background_light",
+      "value": "#191919"
+    },
+    {
+      "name": "text_primary_light",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#99E6E6E6"
+    },
+    {
+      "name": "brand_primary",
+      "value": "#317AF7"
+    },
+    {
+      "name": "widget_card_background",
+      "value": "#1A2230"
+    },
+    {
+      "name": "widget_text_primary",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "widget_text_secondary",
+      "value": "#8E96A0"
+    },
+    {
+      "name": "widget_code",
+      "value": "#317AF7"
+    },
+    {
+      "name": "widget_divider",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "widget_refresh_background",
+      "value": "#2C2C2C"
+    },
+    {
+      "name": "widget_refresh_icon",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "widget_loading_overlay",
+      "value": "#E6000000"
+    },
+    {
+      "name": "widget_empty_start",
+      "value": "#1A2840"
+    },
+    {
+      "name": "widget_empty_end",
+      "value": "#121820"
+    },
+    {
+      "name": "widget_empty_title",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "widget_empty_body",
+      "value": "#B8B4C4"
+    },
+    {
+      "name": "widget_empty_dot",
+      "value": "#317AF7"
+    },
+    {
+      "name": "widget_empty_mark",
+      "value": "#4D317AF7"
+    }
+  ]
+}

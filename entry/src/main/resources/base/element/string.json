@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "2FA验证器-工具 - 安全的双因素认证管理工具"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "保护您的在线账户，使用动态验证码进行双因素认证"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "2FA验证器-工具"
+    },
+    {
+      "name": "empty_account_title",
+      "value": "还没有账号"
+    },
+    {
+      "name": "empty_account_subtitle",
+      "value": "添加你的第一个双因素认证账号"
+    },
+    {
+      "name": "add_account",
+      "value": "添加账号"
+    },
+    {
+      "name": "copy_code",
+      "value": "已复制验证码"
+    },
+    {
+      "name": "scan_qr_guide",
+      "value": "将二维码放入框内自动识别"
+    },
+    {
+      "name": "manual_input_guide",
+      "value": "手动输入 Base32 格式的密钥"
+    },
+    {
+      "name": "confirm_add_success",
+      "value": "账号添加成功"
+    },
+    {
+      "name": "camera_permission_reason",
+      "value": "用于扫描二维码添加验证器账号"
+    },
+    {
+      "name": "distributed_data_sync_reason",
+      "value": "用于在你主动开启后，把账号和分组同步到华为云空间"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "2FA验证器-工具"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "在桌面显示令牌验证码"
+    },
+    {
+      "name": "widget_minimum_name",
+      "value": "令牌卡片（最小）"
+    },
+    {
+      "name": "widget_minimum_desc",
+      "value": "紧凑显示单个令牌验证码"
+    },
+    {
+      "name": "widget_small_name",
+      "value": "令牌卡片"
+    },
+    {
+      "name": "widget_small_desc",
+      "value": "显示两个令牌验证码"
+    },
+    {
+      "name": "widget_medium_name",
+      "value": "令牌卡片"
+    },
+    {
+      "name": "widget_medium_desc",
+      "value": "显示四个令牌验证码"
+    }
+  ]
+}

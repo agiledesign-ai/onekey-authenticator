@@ -1,0 +1,19 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/SettingsPage",
+    "pages/ManualAddPage",
+    "pages/SecurityBackupPage",
+    "pages/CloudSpacePage",
+    "pages/ExportDataPage",
+    "pages/ImportDataPage",
+    "pages/TwoFactorGuidePage",
+    "pages/AboutAppPage",
+    "pages/VersionInfoPage",
+    "pages/PrivacyPolicyPage",
+    "pages/ClearAccountsPage",
+    "pages/EditAccountPage",
+    "pages/CardConfigPage",
+    "pages/FeedbackPage"
+  ]
+}

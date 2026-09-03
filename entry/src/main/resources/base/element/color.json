@@ -1,0 +1,132 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background_light",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "page_background_dark",
+      "value": "#000000"
+    },
+    {
+      "name": "card_background_light",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "card_background_dark",
+      "value": "#191919"
+    },
+    {
+      "name": "card_background_elevated",
+      "value": "#FAFAFB"
+    },
+    {
+      "name": "text_primary_light",
+      "value": "#182431"
+    },
+    {
+      "name": "text_primary_dark",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#99182431"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#66182431"
+    },
+    {
+      "name": "brand_primary",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "brand_primary_dark",
+      "value": "#317AF7"
+    },
+    {
+      "name": "brand_light",
+      "value": "#E8F0FE"
+    },
+    {
+      "name": "warning",
+      "value": "#FA2A2D"
+    },
+    {
+      "name": "caution",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "success",
+      "value": "#4CB859"
+    },
+    {
+      "name": "divider",
+      "value": "#1A182431"
+    },
+    {
+      "name": "placeholder",
+      "value": "#C4C4C4"
+    },
+    {
+      "name": "widget_card_background",
+      "value": "#F4F8FC"
+    },
+    {
+      "name": "widget_text_primary",
+      "value": "#111111"
+    },
+    {
+      "name": "widget_text_secondary",
+      "value": "#7A7A7A"
+    },
+    {
+      "name": "widget_code",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "widget_divider",
+      "value": "#12000000"
+    },
+    {
+      "name": "widget_refresh_background",
+      "value": "#EEF1F6"
+    },
+    {
+      "name": "widget_refresh_icon",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "widget_loading_overlay",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "widget_empty_start",
+      "value": "#DCEAF8"
+    },
+    {
+      "name": "widget_empty_end",
+      "value": "#F3F7FC"
+    },
+    {
+      "name": "widget_empty_title",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "widget_empty_body",
+      "value": "#4A4A55"
+    },
+    {
+      "name": "widget_empty_dot",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "widget_empty_mark",
+      "value": "#4D0A59F7"
+    }
+  ]
+}

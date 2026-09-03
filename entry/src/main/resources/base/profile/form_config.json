@@ -1,0 +1,61 @@
+{
+  "forms": [
+    {
+      "name": "widget_minimum",
+      "displayName": "$string:widget_minimum_name",
+      "description": "$string:widget_minimum_desc",
+      "src": "./ets/widget/pages/WidgetMinimumCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "isDefault": false,
+      "colorMode": "auto",
+      "supportDimensions": ["1*2"],
+      "defaultDimension": "1*2",
+      "updateEnabled": true,
+      "updateDuration": 1,
+      "isDynamic": true,
+      "formConfigAbility": "ability://EntryAbility"
+    },
+    {
+      "name": "widget_privacy_small",
+      "displayName": "$string:widget_small_name",
+      "description": "$string:widget_small_desc",
+      "src": "./ets/widget/pages/WidgetSmallCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "isDefault": false,
+      "colorMode": "auto",
+      "supportDimensions": ["2*2"],
+      "defaultDimension": "2*2",
+      "updateEnabled": true,
+      "updateDuration": 1,
+      "isDynamic": true,
+      "formConfigAbility": "ability://EntryAbility"
+    },
+    {
+      "name": "widget_privacy_medium",
+      "displayName": "$string:widget_medium_name",
+      "description": "$string:widget_medium_desc",
+      "src": "./ets/widget/pages/WidgetMediumCard.ets",
+      "uiSyntax": "arkts",
+      "window": {
+        "designWidth": 720,
+        "autoDesignWidth": true
+      },
+      "isDefault": true,
+      "colorMode": "auto",
+      "supportDimensions": ["2*4"],
+      "defaultDimension": "2*4",
+      "updateEnabled": true,
+      "updateDuration": 1,
+      "isDynamic": true,
+      "formConfigAbility": "ability://EntryAbility"
+    }
+  ]
+}

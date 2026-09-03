@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "HarmonyOS phone and 2-in-1 entry for 2FA Authenticator Tool.",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "otp_core": "file:../otp_core"
+  }
+}

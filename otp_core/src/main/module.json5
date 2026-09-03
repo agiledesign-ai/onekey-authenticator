@@ -1,0 +1,11 @@
+{
+  "module": {
+    "name": "otp_core",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "2in1",
+      "wearable"
+    ]
+  }
+}

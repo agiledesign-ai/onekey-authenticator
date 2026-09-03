@@ -1,0 +1,29 @@
+/node_modules
+/oh_modules
+**/oh_modules
+/local.properties
+/.idea
+**/build
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+**/.test
+/.appanalyzer
+/.codegenie
+
+# Signing and release artifacts
+*.cer
+*.hap
+*.jks
+*.key
+*.p12
+*.p7b
+*.pem
+
+# Authenticator exports and local secrets
+securekey-backup-*.json
+*.2fas
+*.mafile
+*.skvault

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1024"
+  height="1024"
+  viewBox="0 0 260 260"
+  role="img"
+  aria-labelledby="title desc">
+  <title id="title">SecureKey six-facet token background</title>
+  <desc id="desc">HarmonyOS adaptive icon background using the SecureKey blue gradient.</desc>
+
+  <defs>
+    <linearGradient id="brand-blue" x1="32" y1="18" x2="228" y2="242" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3B83FA" />
+      <stop offset="1" stop-color="#0A59F7" />
+    </linearGradient>
+  </defs>
+
+  <!-- 系统负责应用图标遮罩，因此背景层必须铺满整个画布。 -->
+  <rect width="260" height="260" fill="url(#brand-blue)" />
+</svg>

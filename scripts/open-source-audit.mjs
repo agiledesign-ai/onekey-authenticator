@@ -8,6 +8,7 @@ const ignoredDirectories = new Set([
   '.git',
   '.hvigor',
   '.idea',
+  '.test',
   'build',
   'node_modules',
   'oh_modules'

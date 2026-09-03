@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安全漏洞报告
+    url: https://github.com/agiledesign-ai/onekey-authenticator/security/policy
+    about: 请私下报告尚未修复的安全问题
+  - name: 使用、定制与合作
+    url: https://github.com/agiledesign-ai/onekey-authenticator#联系与定制
+    about: 查看联系方式和信息提交要求

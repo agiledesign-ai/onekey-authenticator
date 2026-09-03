@@ -1,0 +1,33 @@
+name: 功能建议
+description: 提议符合公开版范围的新能力或改进
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 要解决的问题
+      description: 请描述用户场景，而不是只给出功能名称。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: 隐私、权限和依赖影响
+      description: 说明是否增加网络请求、权限、依赖或数据存储。
+    validations:
+      required: true
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: 范围确认
+      options:
+        - label: 该建议符合 CONTRIBUTING.md 中的公开版范围。
+          required: true
