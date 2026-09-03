@@ -1,0 +1,35 @@
+# Public snapshot allowlist. Paths are relative to the private source repository.
+# Copy committed content from HEAD only; feedback worktree changes are applied separately.
+
+.gitignore
+code-linter.json5
+hvigorfile.ts
+oh-package.json5
+oh-package-lock.json5
+hvigor/**
+design/app-icon/**
+AppScope/resources/**
+entry/**
+otp_core/**
+tests/**
+
+# Rebuild instead of copying
+!build-profile.json5
+!AppScope/app.json5
+!entry/src/main/module.json5
+
+# Private or generated material
+!docs/**
+!**/build/**
+!**/oh_modules/**
+!otp_core/BuildProfile.ets
+
+# Wearable implementation
+!wear/**
+!entry/src/main/ets/features/wear/**
+!entry/src/main/ets/pages/SendToWatchPage.ets
+!entry/src/test/WatchSyncRecord.test.ets
+!entry/src/test/WearAccountPolicy.test.ets
+!entry/src/test/WearSendPolicy.test.ets
+!otp_core/src/main/ets/wear/**
+!tests/wearable-module-contract.test.mjs
